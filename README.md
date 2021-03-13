@@ -13,7 +13,7 @@
 
 ### ⚡ Habilidades:
 #### Front-end:
-- ![React](https://img.shields.io/badge/-ReactJs-61DAFB?&logo=react&logoColor=000000) ![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?&logo=javascript&logoColor=000000) ![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?&logo=yarn&logoColor=FFFFFF) ![Next.js](https://img.shields.io/badge/-Next.js-000000?&logo=next.js&logoColor=FFFFFF)
+- ![React](https://img.shields.io/badge/-ReactJs-61DAFB?&logo=react&logoColor=000000) ![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?&logo=javascript&logoColor=000000) ![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?&logo=yarn&logoColor=FFFFFF) ![Next.js](https://img.shields.io/badge/-Next.js-000000?&logo=next.js&logoColor=FFFFFF) ![Typescript](https://img.shields.io/badge/-typescript-3178C6?&logo=typescript&logoColor=FFFFFF)
 
 #### Back-end:
 - ![Node.js](https://img.shields.io/badge/-Node.js-339933?&logo=node.js&logoColor=FFFFFF) ![Typescript](https://img.shields.io/badge/-typescript-3178C6?&logo=typescript&logoColor=FFFFFF) ![Docker](https://img.shields.io/badge/-Docker-2496ED?&logo=docker&logoColor=FFFFFF)
