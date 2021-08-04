@@ -31,7 +31,7 @@
 [![Erickson github stats](https://github-readme-stats.vercel.app/api?username=sanderpaniago&theme=cobalt&show_icons=true)](https://github.com/sanderpaniago/github-readme-stats)
 
 ### 📈  linguagens mais usadas 
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanderpaniago&hide=scss&layout=compact&theme=cobalt&title_color=2ED3EA)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanderpaniago&hide=scss,vba,jupyterNotebook&layout=compact&theme=cobalt&title_color=2ED3EA)
 
 <hr>
 
