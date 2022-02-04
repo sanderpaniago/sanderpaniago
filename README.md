@@ -5,9 +5,9 @@
 ### 👦Sobre mim :seedling: : 
 - 👋 Me chamo **Sander Paniago**, tenho 20 anos.
 - 📌 De Costa Rica, Mato Grosso do Sul, Brasil.
-- 👨🏻‍💻 Atualmente trabalho como Dev. Front-end.
-- 🎓 Dedico meus estudos ao ecosistema javascript, atualmente estudo para fullstack, back-end com **Node.js** e front-end com **Next.js**! 
-- 🛠️ Estudando para me tornar um **Desenvolvedor FullStack FullCycle**.
+- 👨🏻‍💻 Dev. Front-end Senior Vtex.
+- 🎓 Dedico meus estudos ao ecosistema javascript, e tento entender a loucura desse mundo! 
+- 🛠️ **Desenvolvedor FullStack Vtex.IO e FastStore*.
 
 <hr>
 
