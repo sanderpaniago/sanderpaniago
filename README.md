@@ -3,9 +3,9 @@
 </h1>
 
 ### 👦Sobre mim :seedling: : 
-- 👋 Me chamo **Sander Paniago**, tenho 20 anos.
+- 👋 Me chamo **Sander Paniago**, tenho 23 anos.
 - 📌 De Costa Rica, Mato Grosso do Sul, Brasil.
-- 👨🏻‍💻 Dev. Front-end Senior Vtex.
+- 👨🏻‍💻 Dev. Front-end Senior Vtex | React.js | Next.js.
 - 🎓 Dedico meus estudos ao ecosistema javascript, e tento entender a loucura desse mundo! 
 - 🛠️ **Desenvolvedor FullStack Vtex.IO e FastStore*.
 
